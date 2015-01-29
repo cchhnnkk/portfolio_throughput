@@ -1,0 +1,6 @@
+using priority task queue based round-robin shecdule to improve the throughtput of sat solvers.
+
+rr_priorq.py 
+round-robin with priority task queue
+
+
